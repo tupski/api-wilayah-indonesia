@@ -1,1 +1,32 @@
-[{"district_id":"3674010","id":"3674010001","name":"KRANGGAN"},{"district_id":"3674010","id":"3674010002","name":"MUNCUL"},{"district_id":"3674010","id":"3674010003","name":"KADEMANGAN"},{"district_id":"3674010","id":"3674010004","name":"SETU"},{"district_id":"3674010","id":"3674010005","name":"BABAKAN"},{"district_id":"3674010","id":"3674010006","name":"BAKTI JAYA"}]
+[
+    {
+        "district_id": "3674010",
+        "id": "3674010001",
+        "name": "KRANGGAN"
+    },
+    {
+        "district_id": "3674010",
+        "id": "3674010002",
+        "name": "MUNCUL"
+    },
+    {
+        "district_id": "3674010",
+        "id": "3674010003",
+        "name": "KADEMANGAN"
+    },
+    {
+        "district_id": "3674010",
+        "id": "3674010004",
+        "name": "SETU"
+    },
+    {
+        "district_id": "3674010",
+        "id": "3674010005",
+        "name": "BABAKAN"
+    },
+    {
+        "district_id": "3674010",
+        "id": "3674010006",
+        "name": "BAKTI JAYA"
+    }
+]
